@@ -9,3 +9,4 @@ LH I also have this hanging.
 
 function index()[]
 #merge test
+another test
