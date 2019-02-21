@@ -7,5 +7,5 @@ s
 KCY Chasdaas ange
 LH I also have this hanging.
 
-
+function index()[]
 #merge test
