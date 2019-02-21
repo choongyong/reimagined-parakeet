@@ -1,6 +1,5 @@
 # reimagined-parakeet
 A test repository to practice git.
-function index() {}
 # Helaassdaslo
 s
 
@@ -11,3 +10,4 @@ function index()[]
 #merge test
 
 # Added Feature  branch 1
+# Added feature branch 1 folder and added school.rb
